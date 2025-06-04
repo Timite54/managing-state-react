@@ -1,4 +1,4 @@
-# checkpoint-managing-state-in-react
+# managing-state-react
 
 ## Ce que vous visez
 
